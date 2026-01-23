@@ -1,0 +1,10 @@
+torch
+pandas
+transformers
+datasets
+trl
+unsloth
+langchain
+langchain-core
+langchain-community
+deep-translator
